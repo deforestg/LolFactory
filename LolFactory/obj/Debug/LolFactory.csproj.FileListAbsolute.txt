@@ -1,0 +1,10 @@
+C:\Users\Gabe\AppData\Local\Temporary Projects\HelloWorld\bin\Debug\LolFactory.exe
+C:\Users\Gabe\AppData\Local\Temporary Projects\HelloWorld\bin\Debug\LolFactory.pdb
+C:\Users\Gabe\AppData\Local\Temporary Projects\HelloWorld\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Gabe\AppData\Local\Temporary Projects\HelloWorld\obj\Debug\LolFactory.exe
+C:\Users\Gabe\AppData\Local\Temporary Projects\HelloWorld\obj\Debug\LolFactory.pdb
+C:\Users\Gabe\Documents\Visual Studio 2008\Projects\LolFactory\LolFactory\obj\Debug\LolFactory.exe
+C:\Users\Gabe\Documents\Visual Studio 2008\Projects\LolFactory\LolFactory\obj\Debug\LolFactory.pdb
+C:\Users\Gabe\Documents\Visual Studio 2008\Projects\LolFactory\LolFactory\bin\Debug\LolFactory.exe
+C:\Users\Gabe\Documents\Visual Studio 2008\Projects\LolFactory\LolFactory\bin\Debug\LolFactory.pdb
+C:\Users\Gabe\Documents\Visual Studio 2008\Projects\LolFactory\LolFactory\obj\Debug\ResolveAssemblyReference.cache
